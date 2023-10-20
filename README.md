@@ -6,8 +6,9 @@ This plugin acts as an extension to [Blockonomicon](https://github.com/charliede
 
 ## Requirements
 
-* Craft CMS 3.0.0-RC6 or above
-* Blockonomicon 1.1.0 or above
+* Craft CMS 4.0.0 or above
+* Blockonomicon 2.0.0 or above
+* Version 2+ Supports Craft 4
 
 ## Installation
 
